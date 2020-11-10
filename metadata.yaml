@@ -1,0 +1,23 @@
+_repo: Saaren-seikkailija_63626
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Elenius, Emil
+    birthdate: 1877
+    deathdate: 1949
+    gutenberg_agent_id: '52409'
+    url: http://www.gutenberg.org/2009/agents/52409
+    wikipedia: https://fi.wikipedia.org/wiki/Emil_Elenius
+description: ''
+gutenberg_issued: '2020-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63626'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Saaren seikkailija
+url: http://www.gutenberg.org/ebooks/63626
